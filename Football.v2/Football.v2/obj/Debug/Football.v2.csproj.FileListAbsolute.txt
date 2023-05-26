@@ -5,3 +5,10 @@ C:\Users\Algorithmity\source\repos\Football.v2\Football.v2\obj\Debug\Football.v2
 C:\Users\Algorithmity\source\repos\Football.v2\Football.v2\obj\Debug\Football.v2.csproj.CoreCompileInputs.cache
 C:\Users\Algorithmity\source\repos\Football.v2\Football.v2\obj\Debug\Football.v2.exe
 C:\Users\Algorithmity\source\repos\Football.v2\Football.v2\obj\Debug\Football.v2.pdb
+C:\Users\Algorithmity\Source\Repos\FootballOOPModeling\Football.v2\Football.v2\obj\Debug\Football.v2.csproj.AssemblyReference.cache
+C:\Users\Algorithmity\Source\Repos\FootballOOPModeling\Football.v2\Football.v2\obj\Debug\Football.v2.csproj.CoreCompileInputs.cache
+C:\Users\Algorithmity\Source\Repos\FootballOOPModeling\Football.v2\Football.v2\obj\Debug\Football.v2.exe
+C:\Users\Algorithmity\Source\Repos\FootballOOPModeling\Football.v2\Football.v2\obj\Debug\Football.v2.pdb
+C:\Users\Algorithmity\source\repos\FootballOOPModeling\Football.v2\Football.v2\bin\Debug\Football.v2.exe.config
+C:\Users\Algorithmity\source\repos\FootballOOPModeling\Football.v2\Football.v2\bin\Debug\Football.v2.exe
+C:\Users\Algorithmity\source\repos\FootballOOPModeling\Football.v2\Football.v2\bin\Debug\Football.v2.pdb

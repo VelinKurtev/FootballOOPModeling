@@ -14,7 +14,7 @@ namespace Football.v2
         public List<Referee> AssistantReferees { get; private set; }
         public List<Goal> Goals { get; private set; }
         public string GameResult { get; private set; }
-        public Team Winner { get; private set; }
+        public string Winner { get; private set; }
 
         public Game(Team team1, Team team2, Referee referee, List<Referee> assistantReferees)
         {
@@ -32,10 +32,11 @@ namespace Football.v2
             Goals.Add(new Goal(minute, player));
         }
 
-        public void SetGameResult(string result, Team winner)
+        public void SetGameResult(string result, string winner)
         {
             GameResult = result;
             Winner = winner;
         }
+
     }
 }
